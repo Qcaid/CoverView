@@ -27,7 +27,7 @@ const Faq = () => {
                     <div className="md:w-5/12 m-4">
                         <p className="text-xl  font-bold py-2">Can I upload my custom brand logo?</p>
                         <p className="text-lg text-gray-700">Yes.Just search and select <span className="font-semibold">custom</span> in icon section and you can upload your own logo to personalize your cover images.</p>
-                        <p className="italic mt-2">See <a href="https://twitter.com/WankhadeRutik/status/1518270774335111168?s=20&t=XMjbJpGAC7anadJ690_DUg" className="text-blue-400" target="_blank" rel="noreferrer">example</a></p>
+                        <p className="italic mt-2">See <a href="https://twitter.com/Wankhad/status/1518270774335111168?s=20&t=XMjbJpGAC7anadJ690_DUg" className="text-blue-400" target="_blank" rel="noreferrer">example</a></p>
                     </div>
 
                     <div className="md:w-5/12 m-4">
@@ -51,7 +51,7 @@ const Faq = () => {
                     <button
                         onClick={() => setShowMsg(!showMsg)}
                         className="text-6xl text-center m-2">💡</button>
-                    <p className="text-xl font-Anek font-semibold text-gray-800">Want to know a secret? Click me</p>
+                    <p className="text-xl font-Anek font-semibold text-gray-800"></p>
 
                 </div>
 
